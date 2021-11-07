@@ -1,0 +1,13 @@
+Package: gh
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Ethan Blair
+Section: Development
+Priority: optional
+Homepage: https://www.github.com/cli/cli
+Description: GitHub command-line tool.
+ gh is GitHub on the command line. It brings pull requests, issues, and
+ other GitHub concepts to the terminal next to where you are already working
+ with git and your code.
+Name: GitHub CLI
+Installed-Size: 29028
